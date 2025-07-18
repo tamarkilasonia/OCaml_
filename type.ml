@@ -9,9 +9,9 @@ given → a string (first name)
 sur → a string (last name)
 age → an integer*)
 
-let paul = { given = "Paul"; sur = "Meier"; age = 24 }
+let Tamro = { given = "Tamro"; sur = "Kilas"; age = 19 }
 
-let hans = { sur = "kohl"; age = 23; given = "hans" }
+let Saba = { sur = "Hm"; age = 19; given = "Saba" }
 
 
 type color = Diamonds | Hearts | Gras | Clubs
