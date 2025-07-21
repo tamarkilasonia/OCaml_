@@ -36,6 +36,7 @@ let rec top n = function
 
 
 
+
 let rec map f (LNode (v, l, r)) =
   let go t _ = map f (t ()) in
   LNode (f v, go l, go r)
