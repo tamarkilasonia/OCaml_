@@ -11,7 +11,7 @@ age → an integer*)
 
 let Tamro = { given = "Tamro"; sur = "Kilas"; age = 19 }
 
-let Saba = { sur = "Hm"; age = 19; given = "Saba" }
+let Saba = { sur = "Hm"; age =49; given = "S" }
 
 
 type color = Diamonds | Hearts | Gras | Clubs
